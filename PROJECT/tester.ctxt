@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=tester
+comment1.params=encrypted\ whichSlice\ totalSlices
+comment1.target=java.lang.String\ sliceString(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ findindivisualkeys()
+numComments=3

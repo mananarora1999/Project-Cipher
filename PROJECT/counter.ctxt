@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=counter
+comment1.params=
+comment1.target=counter()
+comment2.params=message
+comment2.target=int[]\ intarray(java.lang.String)
+comment3.params=message
+comment3.target=char[]\ chararray(java.lang.String)
+comment4.params=vals
+comment4.target=int\ maxIndex(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
