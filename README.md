@@ -23,3 +23,6 @@ Decryption - Di = (Ei - Ki + 26) mod 26
 Facilities required for proposed work
 
 BlueJ - An integrated development environment with special libraries already built-in by Duke University.
+
+Field of Project:
+Cryptography - Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process it.
